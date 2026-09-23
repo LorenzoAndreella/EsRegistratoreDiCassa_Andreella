@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esregistratoredicassa_andreella\\esregistratoredicassa_andreella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|solutionrelative:esregistratoredicassa_andreella\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\esregistratoredicassa_andreella\\carticolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|solutionrelative:esregistratoredicassa_andreella\\carticolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\esregistratoredicassa_andreella\\ccliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|solutionrelative:esregistratoredicassa_andreella\\ccliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\esregistratoredicassa_andreella\\carticolononalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|solutionrelative:esregistratoredicassa_andreella\\carticolononalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\esregistratoredicassa_andreella\\carticoloalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D724D04E-34DA-4AF9-972B-A1D93EE8B937}|EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella.csproj|solutionrelative:esregistratoredicassa_andreella\\carticoloalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCliente.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CCliente.cs",
+              "RelativeDocumentMoniker": "EsRegistratoreDiCassa_Andreella\\CCliente.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CCliente.cs",
+              "RelativeToolTip": "EsRegistratoreDiCassa_Andreella\\CCliente.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:25:49.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CArticoloNonAlimentare.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CArticoloNonAlimentare.cs",
+              "RelativeDocumentMoniker": "EsRegistratoreDiCassa_Andreella\\CArticoloNonAlimentare.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CArticoloNonAlimentare.cs",
+              "RelativeToolTip": "EsRegistratoreDiCassa_Andreella\\CArticoloNonAlimentare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:24:13.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CArticoloAlimentare.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CArticoloAlimentare.cs",
+              "RelativeDocumentMoniker": "EsRegistratoreDiCassa_Andreella\\CArticoloAlimentare.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CArticoloAlimentare.cs",
+              "RelativeToolTip": "EsRegistratoreDiCassa_Andreella\\CArticoloAlimentare.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:16:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CArticolo.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CArticolo.cs",
+              "RelativeDocumentMoniker": "EsRegistratoreDiCassa_Andreella\\CArticolo.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\CArticolo.cs",
+              "RelativeToolTip": "EsRegistratoreDiCassa_Andreella\\CArticolo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:13:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\Program.cs",
+              "RelativeDocumentMoniker": "EsRegistratoreDiCassa_Andreella\\Program.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsRegistratoreDiCassa_Andreella\\EsRegistratoreDiCassa_Andreella\\Program.cs",
+              "RelativeToolTip": "EsRegistratoreDiCassa_Andreella\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:03:21.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

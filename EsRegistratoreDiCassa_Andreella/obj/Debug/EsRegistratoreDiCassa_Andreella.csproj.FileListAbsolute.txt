@@ -1,0 +1,7 @@
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\obj\Debug\EsRegistratoreDiCassa_Andreella.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\obj\Debug\EsRegistratoreDiCassa_Andreella.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\bin\Debug\EsRegistratoreDiCassa_Andreella.exe.config
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\bin\Debug\EsRegistratoreDiCassa_Andreella.exe
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\bin\Debug\EsRegistratoreDiCassa_Andreella.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\obj\Debug\EsRegistratoreDiCassa_Andreella.exe
+C:\Users\lorenzo\Desktop\c sharp\EsRegistratoreDiCassa_Andreella\EsRegistratoreDiCassa_Andreella\obj\Debug\EsRegistratoreDiCassa_Andreella.pdb
