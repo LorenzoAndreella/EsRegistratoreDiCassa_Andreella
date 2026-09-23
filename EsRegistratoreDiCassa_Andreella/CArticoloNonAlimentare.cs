@@ -14,11 +14,9 @@ namespace EsRegistratoreDiCassa_Andreella
     }
     public class CArticoloNonAlimentare : CArticolo
     {
-        
+        public string TipoMateriale { get; set; }
 
-        public Materiale TipoMateriale { get; set; }
-
-        public CArticoloNonAlimentare(long codice, string descrizione, int prezzo, Materiale tipoMateriale)
+        public CArticoloNonAlimentare(long codice, string descrizione, int prezzo, string tipoMateriale)
             : base(codice, descrizione, prezzo)
         {
             TipoMateriale = tipoMateriale;
@@ -26,7 +24,8 @@ namespace EsRegistratoreDiCassa_Andreella
 
         public override int Sconta()
         {
-            if (TipoMateriale == Materiale.carta)
+            string tipo = TipoMateriale.ToLower();
+            if (tipo == Materiale.carta.ToString() || tipo == Materiale.plastica.ToString() || tipo == Materiale.vetro.ToString())
             {
                 Prezzo = Prezzo * 90 / 100;
             }
