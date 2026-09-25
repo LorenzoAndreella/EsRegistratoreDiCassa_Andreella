@@ -9,7 +9,7 @@ namespace EsRegistratoreDiCassa_Andreella
 
         public static void Main(string[] args)
         {
-
+            CRegistratore registratore = new CRegistratore();
             int aggiuntaCliente;
             do
             {
@@ -27,13 +27,24 @@ namespace EsRegistratoreDiCassa_Andreella
                     Console.WriteLine("Quanti articoli vuoi aggiungere?");
                 } while (!int.TryParse(Console.ReadLine(), out numArticoli) || numArticoli <= 0);
 
+                int ammontare = 0;
                 for (int j = 0; j < numArticoli; j++)
                 {
                     CArticolo articolo = AggiungiArticolo();
+                    ammontare += articolo.Prezzo;
                     clienti[i].AggiungiArticolo(articolo);
                     Console.WriteLine("Articolo aggiunto: " + articolo.Descrizione);
                 }
 
+                string giorno;
+                DateTime data;
+                do
+                {
+                    Console.WriteLine("Che giorno è oggi? (gg/mm/aaaa)");
+                    giorno = Console.ReadLine();
+                } while (!DateTime.TryParse(giorno, out data));
+
+                registratore.EmettiScontrino(ammontare, data);
                 clienti[i].Sconta();
 
             }
@@ -55,6 +66,33 @@ namespace EsRegistratoreDiCassa_Andreella
 
             Console.WriteLine(InvioSconti(codiceSconto));
 
+            registratore.CancellaScontrino();
+            Console.WriteLine("Ultimo scontrino cancellato");
+            Console.WriteLine(registratore.ListScontrini());
+            int sceltaStampa;
+            do
+            {
+                Console.WriteLine("Vuoi stampare gli scontrini della settimana o del mese? 1.Settimana 2.Mese");
+            } while (!int.TryParse(Console.ReadLine(), out sceltaStampa) || sceltaStampa < 1 || sceltaStampa > 2);
+
+            if (sceltaStampa == 1)
+            {
+                int settimana;
+                do
+                {
+                    Console.WriteLine("Inserisci il numero della settimana (1-52):");
+                } while (!int.TryParse(Console.ReadLine(), out settimana) || settimana < 1 || settimana > 52);
+                Console.WriteLine(registratore.StampaSettimana(settimana));
+            }
+            else
+            {
+                int mese;
+                do
+                {
+                    Console.WriteLine("Inserisci il numero del mese (1-12):");
+                } while (!int.TryParse(Console.ReadLine(), out mese) || mese < 1 || mese > 12);
+                Console.WriteLine(registratore.StampaMese(mese));
+            }
         }
 
         public static CCliente AggiungiCliente()

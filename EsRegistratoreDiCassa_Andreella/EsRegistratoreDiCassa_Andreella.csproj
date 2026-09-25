@@ -48,6 +48,8 @@
     <Compile Include="CArticoloAlimentare.cs" />
     <Compile Include="CArticoloNonAlimentare.cs" />
     <Compile Include="CCliente.cs" />
+    <Compile Include="CRegistratore.cs" />
+    <Compile Include="CScontrino.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
